@@ -13,3 +13,9 @@ echarts 4.2.1
 ```
 
 ### 如有错误，请指正
+
+### 效果图
+![输入图片说明](screenshot/20211223151749.png)
+
+
+![输入图片说明](screenshot/4448ed59acc0f78cb95acf8c22d5fcd8.gif)
