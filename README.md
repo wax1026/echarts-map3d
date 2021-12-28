@@ -12,6 +12,10 @@ echarts-gl 1.1.2
 echarts 4.2.1
 ```
 
+* map3d.html 采用上边所述的echarts版本
+
+* 其中：MiddleTopMap1.vue文件通过最新echarts和echarts-gl采用map3D实现的效果。
+
 ### 如有错误，请指正
 
 ### 效果图
