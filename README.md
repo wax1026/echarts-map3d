@@ -14,7 +14,9 @@ echarts 4.2.1
 
 * map3d.html 采用上边所述的echarts版本
 
-* 其中：MiddleTopMap1.vue文件通过最新echarts和echarts-gl采用map3D实现的效果。
+* MiddleTopMap1.vue文件通过最新echarts和echarts-gl采用map3D实现的效果。
+
+* echarts+geo3D+bar3d.vue文件通过最新echarts和echarts-gl采用map3D实现的效果。（效果图见第个图）
 
 ### 如有错误，请指正
 
@@ -23,3 +25,6 @@ echarts 4.2.1
 
 
 ![输入图片说明](screenshot/4448ed59acc0f78cb95acf8c22d5fcd8.gif)
+
+
+![输入图片说明](screenshot/20211228_134608.gif)
